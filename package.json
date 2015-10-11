@@ -1,0 +1,22 @@
+{
+  "name": "Beneath",
+  "version": "0.1.0-dev",
+  "description": "Turn-based Sci-fi Roguelike Dungeon Crawler",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheAlchemist64/Beneath.git"
+  },
+  "keywords": [
+    "roguelike",
+    "dungeon",
+    "crawler",
+    "rot.js"
+  ],
+  "author": "Daniel Sheppard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheAlchemist64/Beneath/issues"
+  },
+  "homepage": "https://github.com/TheAlchemist64/Beneath"
+  "private": true
+}
